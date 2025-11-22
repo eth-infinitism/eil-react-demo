@@ -1,5 +1,7 @@
 # Ethereum Interop Layer — React Demo
 
+WARNING: DURING ETHGLOBAL BUENOS AIRES YOU **MUST** TO USE THE AMBIRE WALLET VERSION AVAILABLE AT THE EF EIL BOOTH OR ON OUR TELEGRAM. THIS DEMO APPLICATION WILL ONLY WORK WITH THIS VERSION OF THE AMBIRE WALLET.
+
 A demonstration application showcasing the **Ethereum Interoperability Layer (EIL)** SDK for building trustless cross-chain applications using React, Viem and Wagmi in TypeScript.
 
 ## 🌟 Overview
